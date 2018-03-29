@@ -1,1 +1,1 @@
-Büyük ünlü uyumunu denetleyen JAVA kodu
+Verilen bir metinde kaç adet ünlü var
